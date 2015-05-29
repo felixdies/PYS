@@ -1,0 +1,4 @@
+fio_*.txt
+
+__pycache__/
+.idea/
